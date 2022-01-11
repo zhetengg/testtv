@@ -37,7 +37,7 @@ http://223.110.235.24/ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K HDR
 http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d958e02c852.jpg" group-title="4K",4K修复
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228141/index.m3u8
-#EXTINF:-1  tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4k",SiTV欢笑剧场4K
+#EXTINF:-1  tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K",SiTV欢笑剧场4K
 http://111.20.33.93/TVOD/88888893/224/3221226582/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="4K",爱上4K
 http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
