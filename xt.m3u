@@ -104,36 +104,6 @@ http://124.232.233.15:6610/000000001001/201500000334/index.m3u8?IASHttpSessionId
 http://124.232.233.15:6610/000000001001/201500000229/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",长沙新闻
 http://124.232.233.15:6610/000000001001/201500000232/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="" tvg-name="日本ANN新闻" tvg-logo="" group-title="地区",日本ANN新闻
-https://iptv.jmsooo.com/live/annnews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CTI中天新闻" tvg-logo="" group-title="地区",CTI中天新闻
-https://iptv.jmsooo.com/live/ctiztxw/index.m3u8
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="地区",TVBS 新闻
-https://iptv.jmsooo.com/live/tvbsxw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVBS56" tvg-logo="" group-title="地区",TVBS56
-https://iptv.jmsooo.com/live/tvbs56/index.m3u8
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="地区",寰宇新闻
-https://iptv.jmsooo.com/live/hyxw/index.m3u8
-#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="地区",东森新闻
-https://iptv.jmsooo.com/live/dsxw/index.m3u8
-#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="地区",台视新闻
-https://iptv.jmsooo.com/live/tsxw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地区",三立 LIVE
-https://iptv.jmsooo.com/live/sl/index.m3u8
-#EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="地区",三立 iNEWS
-https://iptv.jmsooo.com/live/sli/index.m3u8
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="地区",民视新闻
-https://iptv.jmsooo.com/live/ctiztxw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地区",华视新闻
-https://iptv.jmsooo.com/live/msxw/index.m3u8
-#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="地区",中视新闻
-https://iptv.jmsooo.com/live/hsxw/index.m3u8
-#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="地区",东森财经
-https://iptv.jmsooo.com/live/dscj/index.m3u8
-#EXTINF:-1 tvg-id="6110" tvg-name="运通财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EFTV.png" group-title="地区",运通财经
-https://iptv.jmsooo.com/live/ytcj/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBATV" tvg-logo="" group-title="体育",NBATV
-https://iptv.jmsooo.com/live/nbatv/index.m3u8
 #EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="体育",极速汽车
 http://iptv.tvfix.org/hls/jsqchd.m3u8
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="体育",劲爆体育
