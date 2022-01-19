@@ -76,27 +76,27 @@ http://124.232.233.15:6610/000000001001/201500000066/index.m3u8?IASHttpSessionId
 http://124.232.233.15:6610/000000001001/201500000159/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://124.232.233.15:6610/000000001001/201500000072/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",湖南金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://www.hualigs.cn/image/61e7750e8ae0e.jpg" group-title="卫视",湖南金鹰卡通
 http://124.232.233.15:6610/000000001001/201500000154/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="卫视",湖南金鹰纪实
 http://124.232.233.15:6610/000000001001/201500000240/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="卫视",湖南快乐垂钓
 http://124.232.233.15:6610/000000001001/201500000245/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="湖南公共" tvg-name="湖南公共" tvg-logo="https://www.hualigs.cn/image/61e03e18ea4d9.jpg" group-title="湖南",湖南公共
+#EXTINF:-1 tvg-id="湖南公共" tvg-name="湖南公共" tvg-logo="https://www.hualigs.cn/image/61e7750dd21a8.jpg" group-title="湖南",湖南公共
 http://124.232.233.15:6610/000000001001/201500000241/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="" tvg-name="湖南国际" tvg-logo="http://www.nettvpro.live/uploads/18/1-1P51220053V91.jpg" group-title="湖南",湖南国际
+#EXTINF:-1 tvg-id="" tvg-name="湖南国际" tvg-logo="https://www.hualigs.cn/image/61e7750d11425.jpg" group-title="湖南",湖南国际
 http://124.232.233.15:6610/000000001001/201500000242/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://www.hualigs.cn/image/61e03e18c57c4.jpg" group-title="湖南",湖南娱乐
+#EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://www.hualigs.cn/image/61e7750e4f362.jpg" group-title="湖南",湖南娱乐
 http://124.232.233.15:6610/000000001001/201500000239/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e045bb78f67.jpg" group-title="湖南",湖南快乐购
 http://124.232.233.15:6610/000000001001/201500000243/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="" tvg-name="湖南电影" tvg-logo="https://www.hualigs.cn/image/61e03e18cf4a4.jpg" group-title="湖南",湖南电影
+#EXTINF:-1 tvg-id="" tvg-name="湖南电影" tvg-logo="https://www.hualigs.cn/image/61e7750d7b556.jpg" group-title="湖南",湖南电影
 http://124.232.233.15:6610/000000001001/201500000237/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://www.hualigs.cn/image/61e03e18cf4a4.jpg" group-title="湖南",湖南电视剧
+#EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="hhttps://www.hualigs.cn/image/61e7750d42564.jpg" group-title="湖南",湖南电视剧
 http://124.232.233.15:6610/000000001001/201500000236/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://www.hualigs.cn/image/61e03e18c2d1d.jpg" group-title="湖南",湖南经视
+#EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://www.hualigs.cn/image/61e7750e06245.jpg" group-title="湖南",湖南经视
 http://124.232.233.15:6610/000000001001/201500000234/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://www.hualigs.cn/image/61e03e18f05bc.jpg" group-title="湖南",湖南都市
+#EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://www.hualigs.cn/image/61e7750dbc000.jpg" group-title="湖南",湖南都市
 http://124.232.233.15:6610/000000001001/201500000235/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e0457b39ccb.jpg" group-title="湖南",浏阳新闻
 http://124.232.233.15:6610/000000001001/201500000334/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
