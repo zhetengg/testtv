@@ -1,0 +1,177 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1高清
+http://192.168.5.1:8888/239.86.1.66:1234
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2高清
+http://192.168.5.1:8888/239.86.1.173:1234
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3高清
+http://192.168.5.1:8888/239.86.1.174:1234
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4高清
+http://192.168.5.1:8888/239.86.1.228:1234
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5高清
+http://192.168.5.1:8888/239.86.1.182:1234
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+高清
+http://192.168.5.1:8888/239.86.1.67:1234
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6高清
+http://192.168.5.1:8888/239.86.1.175:1234
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7高清
+http://192.168.5.1:8888/239.86.1.176:1234
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8高清
+http://192.168.5.1:8888/239.86.1.177:1234
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9高清
+http://192.168.5.1:8888/239.86.1.178:1234
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10高清
+http://192.168.5.1:8888/239.86.1.179:1234
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11高清
+http://192.168.5.1:8888/239.86.1.87:1234
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12高清
+http://192.168.5.1:8888/239.86.1.180:1234
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13高清
+http://192.168.5.1:8888/239.86.1.229:1234
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14高清
+http://192.168.5.1:8888/239.86.1.181:1234
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15高清
+http://192.168.5.1:8888/239.86.1.88:1234
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16高清
+http://192.168.5.1:8888/239.86.1.207:1234
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17高清
+http://192.168.5.1:8888/239.86.1.78:1234
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN俄语高清
+http://192.168.5.1:8888/239.86.1.130:1234
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN新闻高清
+http://192.168.5.1:8888/239.86.1.28:1234
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN纪录高清
+http://192.168.5.1:8888/239.86.1.29:1234
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN法语高清
+http://192.168.5.1:8888/239.86.1.145:1234
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN西语高清
+http://192.168.5.1:8888/239.86.1.164:1234
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN阿语高清
+http://192.168.5.1:8888/239.86.1.147:1234
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视高清
+http://192.168.5.1:8888/239.86.1.230:1234
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视高清
+http://192.168.5.1:8888/239.86.1.231:1234
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视高清
+http://192.168.5.1:8888/239.86.1.232:1234
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视高清
+http://192.168.5.1:8888/239.86.1.233:1234
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视高清
+http://192.168.5.1:8888/239.86.1.234:1234
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视高清
+http://192.168.5.1:8888/239.86.1.235:1234
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视高清
+http://192.168.5.1:8888/239.86.1.236:1234
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视高清
+http://192.168.5.1:8888/239.86.1.68:1234
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视高清
+http://192.168.5.1:8888/239.86.1.69:1234
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视高清
+http://192.168.5.1:8888/239.86.1.70:1234
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视高清
+http://192.168.5.1:8888/239.86.1.71:1234
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视高清
+http://192.168.5.1:8888/239.86.1.72:1234
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视高清
+http://192.168.5.1:8888/239.86.1.73:1234
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视高清
+http://192.168.5.1:8888/239.86.1.74:1234
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视高清
+http://192.168.5.1:8888/239.86.1.75:1234
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视超清
+http://192.168.5.1:8888/239.86.1.206:1234
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视高清
+http://192.168.5.1:8888/239.86.1.156:1234
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视高清
+http://192.168.5.1:8888/239.86.1.157:1234
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视高清
+http://192.168.5.1:8888/239.86.1.159:1234
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视高清
+http://192.168.5.1:8888/239.86.1.160:1234
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视高清
+http://192.168.5.1:8888/239.86.1.161:1234
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视高清
+http://192.168.5.1:8888/239.86.1.162:1234
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通高清
+http://192.168.5.1:8888/239.86.1.168:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南经视高清
+http://192.168.5.1:8888/239.86.1.65:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南都市高清
+http://192.168.5.1:8888/239.86.1.165:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南电视剧高清
+http://192.168.5.1:8888/239.86.1.166:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南电影高清
+http://192.168.5.1:8888/239.86.1.167:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南娱乐高清
+http://192.168.5.1:8888/239.86.1.169:1234
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="湖南",金鹰纪实高清
+http://192.168.5.1:8888/239.86.1.170:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南公共高清
+http://192.168.5.1:8888/239.86.1.171:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南国际高清
+http://192.168.5.1:8888/239.86.1.172:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",快乐购高清
+http://192.168.5.1:8888/239.86.1.219:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV-1高清
+http://192.168.5.1:8888/239.86.1.237:1234
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",茶频道高清
+http://192.168.5.1:8888/239.86.1.81:1234
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院高清
+http://192.168.5.1:8888/239.86.1.82:1234
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影高清
+http://192.168.5.1:8888/239.86.1.83:1234
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影高清
+http://192.168.5.1:8888/239.86.1.84:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",体育赛事高清
+http://192.168.5.1:8888/239.86.1.89:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",芒果汽车高清
+http://192.168.5.1:8888/239.86.1.101:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",芒果精选高清
+http://192.168.5.1:8888/239.86.1.102:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",妈咪宝宝高清
+http://192.168.5.1:8888/239.86.1.103:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV互娱乐高清
+http://192.168.5.1:8888/239.86.1.104:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV高清院线高清
+http://192.168.5.1:8888/239.86.1.201:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV抗战剧场高清
+http://192.168.5.1:8888/239.86.1.202:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV古装剧场高清
+http://192.168.5.1:8888/239.86.1.203:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV家庭剧场高清
+http://192.168.5.1:8888/239.86.1.204:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV经典剧场高清
+http://192.168.5.1:8888/239.86.1.205:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV 4K
+http://192.168.5.1:8888/239.86.1.158:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV情感综艺高清
+http://192.168.5.1:8888/239.86.1.109:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV精品好剧高清
+http://192.168.5.1:8888/239.86.1.111:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV电影风云高清
+http://192.168.5.1:8888/239.86.1.113:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV故事高清
+http://192.168.5.1:8888/239.86.1.120:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV健康之道高清
+http://192.168.5.1:8888/239.86.1.126:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV戏剧高清
+http://192.168.5.1:8888/239.86.1.129:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",【未知体育】高清
+http://192.168.5.1:8888/239.86.1.121:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湖南教育高清
+http://192.168.5.1:8888/239.86.1.249:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湘潭新闻综合
+http://192.168.5.1:8888/239.86.1.191:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湘潭公共
+http://192.168.5.1:8888/239.86.1.192:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",【频道一】高清
+http://192.168.5.1:8888/239.86.1.221:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",生活家高清
+http://192.168.5.1:8888/239.86.1.223:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",芒果乐淘高清
+http://192.168.5.1:8888/239.86.1.224:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",长沙政法高清
+http://192.168.5.1:8888/239.86.1.225:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",长沙新闻高清
+http://192.168.5.1:8888/239.86.1.226:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",长沙影视高清
+http://192.168.5.1:8888/239.86.1.227:1234
