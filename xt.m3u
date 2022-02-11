@@ -79,17 +79,17 @@ http://ott.js.chinamobile.com/PLTV/3/224/3221227665/index.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://ott.js.chinamobile.com/PLTV/3/224/3221227662/index.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://s4.ax1x.com/2022/01/19/7Dcck9.png" group-title="卫视",湖南金鹰卡通
-http://111.11.121.184:6610/030000001001/jinyingkaton/1.m3u8?channel-id=ystenlive
+rtsp://10.16.9.18:554/PLTV/88888888/224/3221225570/10000100000000060000000000000148_0.smil
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="https://s4.ax1x.com/2022/01/19/7DcyTJ.png" group-title="卫视",湖南金鹰纪实
-http://124.232.233.15:6610/000000001001/201500000240/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+rtsp://10.16.9.18:554/PLTV/88888888/224/3221225573/10000100000000060000000000000151_0.smil
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="卫视",湖南快乐垂钓
 http://124.232.233.15:6610/000000001001/201500000245/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="湖南公共" tvg-name="湖南公共" tvg-logo="https://s4.ax1x.com/2022/01/19/7DcwlV.png" group-title="湖南",湖南公共
-http://124.232.233.15:6610/000000001001/201500000241/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+rtsp://10.16.9.18:554/PLTV/88888888/224/3221225572/10000100000000060000000000000150_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="湖南国际" tvg-logo="https://s4.ax1x.com/2022/01/19/7DcrmF.png" group-title="湖南",湖南国际
-http://124.232.233.15:6610/000000001001/201500000242/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+rtsp://10.16.9.18:554/PLTV/88888888/224/3221225566/10000100000000060000000000000144_0.smil
 #EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://s4.ax1x.com/2022/01/19/7Dcsw4.png" group-title="湖南",湖南娱乐
-http://124.232.233.15:6610/000000001001/201500000239/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+rtsp://10.16.9.18:554/PLTV/88888888/224/3221225568/10000100000000060000000000000146_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e045bb78f67.jpg" group-title="湖南",湖南快乐购
 http://124.232.233.15:6610/000000001001/201500000243/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="湖南电影" tvg-logo="https://s4.ax1x.com/2022/01/19/7DgcDS.png" group-title="湖南",湖南电影
@@ -97,9 +97,9 @@ http://124.232.233.15:6610/000000001001/201500000237/index.m3u8?IASHttpSessionId
 #EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://s4.ax1x.com/2022/01/19/7Dc0yT.png" group-title="湖南",湖南电视剧
 http://124.232.233.15:6610/000000001001/201500000236/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://s4.ax1x.com/2022/01/19/7DcdS0.png" group-title="湖南",湖南经视
-http://124.232.233.15:6610/000000001001/201500000234/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+rtsp://10.16.9.18:554/PLTV/88888888/224/3221225627/10000100000000060000000000000205_0.smil
 #EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://s4.ax1x.com/2022/01/19/7DcBOU.png" group-title="湖南",湖南都市
-http://124.232.233.15:6610/000000001001/201500000235/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+rtsp://10.16.9.18:554/PLTV/88888888/224/3221225567/10000100000000060000000000000145_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e0457b39ccb.jpg" group-title="湖南",浏阳新闻
 http://124.232.233.15:6610/000000001001/201500000334/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e0457b3c5bb.jpg" group-title="湖南",长沙政法
