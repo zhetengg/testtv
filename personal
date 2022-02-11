@@ -93,23 +93,23 @@ http://192.168.5.1:8888/udp/239.86.1.161:1234
 http://192.168.5.1:8888/udp/239.86.1.162:1234
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视高清
 http://192.168.5.1:8888/udp/239.86.1.64:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湖南经视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s4.ax1x.com/2022/01/19/7DcdS0.png" group-title="本地",湖南经视高清
 http://192.168.5.1:8888/udp/239.86.1.65:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湖南都市高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s4.ax1x.com/2022/02/11/HU3SkF.png" group-title="本地",湖南都市高清
 http://192.168.5.1:8888/udp/239.86.1.165:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湖南电视剧高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s4.ax1x.com/2022/02/11/HU1hef.png" group-title="本地",湖南电视剧高清
 http://192.168.5.1:8888/udp/239.86.1.166:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湖南电影高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s4.ax1x.com/2022/02/11/HU1qln.png" group-title="本地",湖南电影高清
 http://192.168.5.1:8888/udp/239.86.1.167:1234
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通高清
 http://192.168.5.1:8888/udp/239.86.1.168:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湖南娱乐高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s4.ax1x.com/2022/01/19/7Dcsw4.png" group-title="本地",湖南娱乐高清
 http://192.168.5.1:8888/udp/239.86.1.169:1234
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实高清
 http://192.168.5.1:8888/udp/239.86.1.170:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湖南公共高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s4.ax1x.com/2022/02/11/HU3F61.png" group-title="本地",湖南公共高清
 http://192.168.5.1:8888/udp/239.86.1.171:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湖南国际高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s4.ax1x.com/2022/02/11/HU3w1s.png" group-title="本地",湖南国际高清
 http://192.168.5.1:8888/udp/239.86.1.172:1234
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",快乐购高清
 http://192.168.5.1:8888/udp/239.86.1.219:1234
