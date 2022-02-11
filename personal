@@ -8,9 +8,9 @@ http://192.168.5.1:8888/udp/239.86.1.174:1234
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4高清
 http://192.168.5.1:8888/udp/239.86.1.228:1234
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5高清
-http://192.168.5.1:8888/udp/239.86.1.182:1234
+http://192.168.5.1:8888/udp/239.86.1.116:1234
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+高清
-http://192.168.5.1:8888/udp/239.86.1.67:1234
+http://192.168.5.1:8888/udp/239.86.1.115:1234
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6高清
 http://192.168.5.1:8888/udp/239.86.1.175:1234
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7高清
