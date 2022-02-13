@@ -115,7 +115,7 @@ http://192.168.5.1:8888/udp/239.86.1.82:1234
 http://192.168.5.1:8888/udp/239.86.1.83:1234
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
 http://192.168.5.1:8888/udp/239.86.1.84:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",IPTV 4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s4.ax1x.com/2022/02/13/Hr0Zrt.png" group-title="IPTV",IPTV 4K
 http://192.168.5.1:8888/udp/239.86.1.158:1234
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",体育赛事
 http://192.168.5.1:8888/udp/239.86.1.89:1234
