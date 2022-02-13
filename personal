@@ -103,7 +103,7 @@ http://192.168.5.1:8888/udp/239.86.1.170:1234
 http://192.168.5.1:8888/udp/239.86.1.171:1234
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s4.ax1x.com/2022/02/11/HU3w1s.png" group-title="本地",湖南国际
 http://192.168.5.1:8888/udp/239.86.1.172:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地",快乐购
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zh.wikipedia.org/wiki/%E5%BF%AB%E6%A8%82%E8%B3%BC#/media/File:Happigo_logo.jpg" group-title="本地",快乐购
 http://192.168.5.1:8888/udp/239.86.1.219:1234
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",中国教育1
 http://192.168.5.1:8888/udp/239.86.1.237:1234
