@@ -111,9 +111,9 @@ http://192.168.5.1:8888/udp/239.86.1.170:1234
 http://192.168.5.1:8888/udp/239.86.1.171:1234
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s4.ax1x.com/2022/02/11/HU3w1s.png" group-title="本地",湖南国际
 http://192.168.5.1:8888/udp/239.86.1.172:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",快乐购高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地",快乐购高清
 http://192.168.5.1:8888/udp/239.86.1.219:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV-1高清
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",中国教育1
 http://192.168.5.1:8888/udp/239.86.1.237:1234
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",茶频道高清
 http://192.168.5.1:8888/udp/239.86.1.81:1234
@@ -123,57 +123,51 @@ http://192.168.5.1:8888/udp/239.86.1.82:1234
 http://192.168.5.1:8888/udp/239.86.1.83:1234
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影高清
 http://192.168.5.1:8888/udp/239.86.1.84:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",体育赛事高清
-http://192.168.5.1:8888/udp/239.86.1.89:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",芒果汽车高清
-http://192.168.5.1:8888/udp/239.86.1.101:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",芒果精选高清
-http://192.168.5.1:8888/udp/239.86.1.102:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",妈咪宝宝高清
-http://192.168.5.1:8888/udp/239.86.1.103:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV互娱乐高清
-http://192.168.5.1:8888/udp/239.86.1.104:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV高清院线高清
-http://192.168.5.1:8888/udp/239.86.1.201:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV抗战剧场高清
-http://192.168.5.1:8888/udp/239.86.1.202:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV古装剧场高清
-http://192.168.5.1:8888/udp/239.86.1.203:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV家庭剧场高清
-http://192.168.5.1:8888/udp/239.86.1.204:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV经典剧场高清
-http://192.168.5.1:8888/udp/239.86.1.205:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV 4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",IPTV 4K
 http://192.168.5.1:8888/udp/239.86.1.158:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV情感综艺高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",体育赛事高清
+http://192.168.5.1:8888/udp/239.86.1.89:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",芒果汽车高清
+http://192.168.5.1:8888/udp/239.86.1.101:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",妈咪宝宝高清
+http://192.168.5.1:8888/udp/239.86.1.103:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",IPTV互娱乐高清
+http://192.168.5.1:8888/udp/239.86.1.104:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",IPTV高清院线高清
+http://192.168.5.1:8888/udp/239.86.1.201:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",IPTV抗战剧场高清
+http://192.168.5.1:8888/udp/239.86.1.202:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",IPTV古装剧场高清
+http://192.168.5.1:8888/udp/239.86.1.203:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",IPTV家庭剧场高清
+http://192.168.5.1:8888/udp/239.86.1.204:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",IPTV经典剧场高清
+http://192.168.5.1:8888/udp/239.86.1.205:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",IPTV情感综艺高清
 http://192.168.5.1:8888/udp/239.86.1.109:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV精品好剧高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",IPTV精品好剧高清
 http://192.168.5.1:8888/udp/239.86.1.111:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV电影风云高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",IPTV电影风云高清
 http://192.168.5.1:8888/udp/239.86.1.113:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV故事高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",IPTV故事高清
 http://192.168.5.1:8888/udp/239.86.1.120:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV健康之道高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",IPTV健康之道高清
 http://192.168.5.1:8888/udp/239.86.1.126:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV戏剧高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",IPTV戏剧高清
 http://192.168.5.1:8888/udp/239.86.1.129:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",【未知体育】高清
-http://192.168.5.1:8888/udp/239.86.1.121:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湖南教育高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湘潭",湖南教育高清
 http://192.168.5.1:8888/udp/239.86.1.249:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湘潭新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湘潭",湘潭新闻综合
 http://192.168.5.1:8888/udp/239.86.1.191:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湘潭公共
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湘潭",湘潭公共
 http://192.168.5.1:8888/udp/239.86.1.192:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",【频道一】高清
-http://192.168.5.1:8888/udp/239.86.1.221:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",生活家高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="长沙",生活家高清
 http://192.168.5.1:8888/udp/239.86.1.223:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",芒果乐淘高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="长沙",芒果乐淘高清
 http://192.168.5.1:8888/udp/239.86.1.224:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",长沙政法高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="长沙",长沙政法高清
 http://192.168.5.1:8888/udp/239.86.1.225:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",长沙新闻高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="长沙",长沙新闻高清
 http://192.168.5.1:8888/udp/239.86.1.226:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",长沙影视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="长沙",长沙影视高清
 http://192.168.5.1:8888/udp/239.86.1.227:1234
