@@ -117,12 +117,6 @@ http://192.168.5.1:8888/udp/239.86.1.83:1234
 http://192.168.5.1:8888/udp/239.86.1.84:1234
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s4.ax1x.com/2022/02/13/Hr0Zrt.png" group-title="IPTV",IPTV 4K
 http://192.168.5.1:8888/udp/239.86.1.158:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",体育赛事
-http://192.168.5.1:8888/udp/239.86.1.89:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",芒果汽车
-http://192.168.5.1:8888/udp/239.86.1.101:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",妈咪宝宝
-http://192.168.5.1:8888/udp/239.86.1.103:1234
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s4.ax1x.com/2022/02/13/HrwwjI.png" group-title="IPTV",IPTV芒果互娱
 http://192.168.5.1:8888/udp/239.86.1.104:1234
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s4.ax1x.com/2022/02/13/HrwdgA.png" group-title="IPTV",IPTV高清院线
@@ -147,19 +141,3 @@ http://192.168.5.1:8888/udp/239.86.1.120:1234
 http://192.168.5.1:8888/udp/239.86.1.126:1234
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s4.ax1x.com/2022/02/13/HrwQj1.png" group-title="IPTV",IPTV戏剧
 http://192.168.5.1:8888/udp/239.86.1.129:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湘潭",湖南教育
-http://192.168.5.1:8888/udp/239.86.1.249:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湘潭",湘潭新闻综合
-http://192.168.5.1:8888/udp/239.86.1.191:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湘潭",湘潭公共
-http://192.168.5.1:8888/udp/239.86.1.192:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="长沙",生活家
-http://192.168.5.1:8888/udp/239.86.1.223:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="长沙",芒果乐淘
-http://192.168.5.1:8888/udp/239.86.1.224:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="长沙",长沙政法
-http://192.168.5.1:8888/udp/239.86.1.225:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="长沙",长沙新闻
-http://192.168.5.1:8888/udp/239.86.1.226:1234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="长沙",长沙影视
-http://192.168.5.1:8888/udp/239.86.1.227:1234
