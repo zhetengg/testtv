@@ -32,7 +32,7 @@ http://192.168.5.1:8888/rtp/239.86.1.181:1234
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15
 http://192.168.5.1:8888/rtp/239.86.1.88:1234
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16
-http://192.168.5.1:8888/rtp/239.86.2.10:1234
+http://192.168.5.1:8888/udp/239.86.1.207:1234
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://192.168.5.1:8888/rtp/239.86.1.78:1234
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN新闻
