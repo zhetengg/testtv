@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕4K 31M2160HDR
-http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?
-#EXTINF:-1 tvg-name="抖音4K50P世界杯源" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="4K频道",抖音4K50P世界杯源
-http://159.75.85.63:5678/zb.php?id=douyin
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="湖南",湖南卫视高清
 rtsp://10.16.9.18/PLTV/88888888/224/3221225626/10000100000000060000000000000204_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南经视高清
