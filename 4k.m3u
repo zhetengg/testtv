@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="cctv4k" tvg-logo="" group-title="湖南",
+https://183.238.66.1:9090/live/4005.m3u8?t=A5ZjU2OThiNjAxMzExMTBkN==&u=freeuser&p=1&pid=&cid=1332&d=b60131110d72d53&sid=DN1yVUTveOtHaUU9JK8gIQ==&r=20230121175319&e=20230121235324&nc=dN2cyBoFlecE&a=7&v=2&isSuma=1&hlsSessionID=17024452686030935647&srchost=172.16.149.181:8060&gid=GgRXZWNTvv6gjMcenrnBFw%3D%3D
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="湖南",湖南卫视高清
 rtsp://10.16.9.18/PLTV/88888888/224/3221225626/10000100000000060000000000000204_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南经视高清
