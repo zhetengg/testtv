@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="cctv4k" tvg-logo="" group-title="湖南",
-http://u3v.cn/5KjXEt
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="湖南",湖南卫视高清
 rtsp://10.16.9.18/PLTV/88888888/224/3221225626/10000100000000060000000000000204_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南经视高清
