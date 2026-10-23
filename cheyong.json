@@ -1,0 +1,13 @@
+{
+  "sites": [
+    {
+      "key": "cheyong",
+      "name": "驰时录",
+      "type": 3,
+      "api": "./cheyong.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    }
+  ]
+}
